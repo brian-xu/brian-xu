@@ -9,7 +9,7 @@ __(.)<
 <hr/>
 <p align="center">
   <samp>
-   <a href="https://www.brian-xu.com">portfolio</a>
+   <a href="https://www.brian-xu.com">website</a>
    ·
    <a href="https://www.linkedin.com/in/brian-s-xu/">linkedin</a>
   </samp>
